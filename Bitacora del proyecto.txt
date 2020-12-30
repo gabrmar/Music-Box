@@ -10,7 +10,8 @@ Altozano, estos serían los pasos a llevar a acabo en la fase 1:
 
 1)Programas 
 
-Composición: Note Worthy Composer 2 
+Composición: Note Worthy Composer. Programa instalado pero tiene restricciones para la generación de archivos de audio. Se necesita hacer algo
+al respecto 
 
 Masterización: Definido por Silfri
 
