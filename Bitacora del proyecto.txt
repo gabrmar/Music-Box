@@ -22,3 +22,12 @@ Escala a usar: Escala de La Mayor
 Notas de la escala: La - Si - Do# - Re - Mi -Fa# - Sol# - La
 
 Acordes
+
+La Mayor:  La - Do# - Mi (Intervalos de terceras)
+Mi Mayor:  Mi - Sol# - Si  (Lo mismo)
+Fa# Menor: Fa# - La - Do# (Lo mismo, pero no sé por qué es considerado menor)
+Re Mayor: Re - Fa# - La  (Lo mismo)
+
+Fuente: https://autochords.com/
+
+Comparar los acordes del sitio con la teoría del video de Jaime Altozano. 
