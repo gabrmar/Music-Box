@@ -31,3 +31,13 @@ Re Mayor: Re - Fa# - La  (Lo mismo)
 Fuente: https://autochords.com/
 
 Comparar los acordes del sitio con la teoría del video de Jaime Altozano. 
+
+Debido a las nuevas limitantes de NoteWorthyComposer, generar archivos Midi para compartirlos con Silfri ya no es posible. Es necesario 
+buscar otras alternativas. Empiezo por este video donde salen tres programas de música como opción:
+
+    https://www.youtube.com/watch?v=BnVdz2CqwmE
+
+
+Noteflight: https://www.noteflight.com/
+
+
