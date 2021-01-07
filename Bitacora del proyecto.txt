@@ -10,10 +10,9 @@ Altozano, estos serían los pasos a llevar a acabo en la fase 1:
 
 1)Programas 
 
-Composición: Note Worthy Composer. Programa instalado pero tiene restricciones para la generación de archivos de audio. Se necesita hacer algo
-al respecto 
+Composición: Note Worthy Composer. Programa instalado pero tiene restricciones para la generación de archivos de audio. Se necesita hacer algo al respecto.
 
-Masterización: Definido por Silfri
+Masterización: Definido por Silfri, LMMS con algunos plugins de sintetizador para gennerar efectos.
 
 2) Acordes base
 
@@ -32,12 +31,10 @@ Fuente: https://autochords.com/
 
 Comparar los acordes del sitio con la teoría del video de Jaime Altozano. 
 
-Debido a las nuevas limitantes de NoteWorthyComposer, generar archivos Midi para compartirlos con Silfri ya no es posible. Es necesario 
-buscar otras alternativas. Empiezo por este video donde salen tres programas de música como opción:
+Debido a las nuevas limitantes de NoteWorthyComposer, generar archivos Midi para compartirlos con Silfri ya no es posible. Es necesario buscar otras alternativas. Empiezo por este video donde salen tres programas de música como opción:
 
-    https://www.youtube.com/watch?v=BnVdz2CqwmE
-
-
+https://www.youtube.com/watch?v=BnVdz2CqwmE
 Noteflight: https://www.noteflight.com/
+MuseScore: https://musescore.org/en (OpenSource y con extension pa tambores wey)
 
 
