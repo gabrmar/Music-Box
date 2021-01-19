@@ -44,5 +44,12 @@ Iniciaré las pruebas con este.
 
 Para hacer más fácil la composición, se usará el tempo de 120 BPM. Es probable que se use alguna percusión para marcar el ritmo.
 
-4) Estructura
+4) Estructura:
+
+ Introducción de un sólo intrsumento + silencio + <el resto por definir>
+
+5) Instrumentos
+
+Gracias a que LMMS permite probar múltiples instrumntos para la pieza  de forma secnilla, la estrucutra debe quedar terminada primero y luego 
+se pueden hcer varias pruebas para elegir los instrumentos finales.
 
