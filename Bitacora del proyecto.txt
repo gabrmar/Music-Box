@@ -46,7 +46,16 @@ Para hacer más fácil la composición, se usará el tempo de 120 BPM. Es probab
 
 4) Estructura:
 
- Introducción de un sólo intrsumento + silencio + <el resto por definir>
+ Introducción de un sólo instrumento + silencio + cuerpo (en construcción)
+
+ Definiendo el cuerpo
+
+ El martes 9 de febrero usamos uno de los tutoriales de LMMS para poder iniciar la estructura del cuerpo de la canción. De momento está
+ compuesto por los siguientes elementos:
+
+    -Fondo un LA corto que sube una octava y se sostiene por un tiempo indeterminado hasta el momento.
+    -Melodía en bucle en notas de la escala de LA Mayor.
+    -Percusión corta en los silencios de la melodía en bucle.
 
 5) Instrumentos
 
