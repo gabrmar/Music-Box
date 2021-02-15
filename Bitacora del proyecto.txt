@@ -57,6 +57,9 @@ Para hacer más fácil la composición, se usará el tempo de 120 BPM. Es probab
     -Melodía en bucle en notas de la escala de LA Mayor.
     -Percusión corta en los silencios de la melodía en bucle.
 
+Propuesta: Probar con cambiar la posición de la estructura anterior un tono más arriba y también con uno más abajo como posibles como
+continuación del cuerpo.
+
 5) Instrumentos
 
 Gracias a que LMMS permite probar múltiples instrumntos para la pieza  de forma secnilla, la estrucutra debe quedar terminada primero y luego 
